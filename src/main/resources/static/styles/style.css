@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(238, 225, 221);
+}
+h1 {
+    color: rgb(79, 73, 187);
+}
+p {
+    color:rgb(0, 0, 0);
+}
+h2 {
+    color: rgb(187, 179, 73);
+}
+h3 {
+    color: rgb(122, 187, 73);
+}
+a {
+    color: rgb(234, 133, 135);
+}
+.size {
+    width: 550px;
+    height: 400px;
+}
+.size1 {
+    width: 550px;
+    height: 400px;
+}
+.size2 {
+    width: 550px;
+    height: 400px;
+}
